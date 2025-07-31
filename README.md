@@ -36,7 +36,6 @@ This app makes use of **React's powerful hooks**, including `useState`, `useEffe
 
 ## 📸 Preview
 
-> *(Add screenshots or gifs here to show the app in action)*
 1. Home Page
 
     ![Home Page](./src/assets/todo_home.png)
@@ -89,6 +88,11 @@ This app makes use of **React's powerful hooks**, including `useState`, `useEffe
 5. **Copy the URL into Browser and hit Enter**.
     
     e.g `http://localhost:5173/`
+
+
+## 📸 Execution video guide
+
+[Execution Video](./src/assets/Todo_execution.sasmp4)
 
 
 
