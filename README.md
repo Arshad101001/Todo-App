@@ -92,7 +92,7 @@ This app makes use of **React's powerful hooks**, including `useState`, `useEffe
 
 ## 📸 Execution video guide
 
-[Execution Video](./src/assets/Todo_execution.sasmp4)
+[Execution Video](./src/assets/Todo_execution.mp4)
 
 
 
